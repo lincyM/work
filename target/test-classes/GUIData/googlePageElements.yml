@@ -1,0 +1,14 @@
+baseClass: "com.paypal.selion.testcomponents.BasicPageImpl"
+pageTitle:
+  US: "GOOGLE Page"
+elements:
+  googleTextField:
+    locators: 
+      US: "//*[@id='lst-ib']"
+  searchButton:
+    locators: 
+      US: "//button[@type='submit']"
+  firstLink:
+    locators: 
+      US: "//a[text()='IPLT20.com - Indian Premier League Official Website']"
+defaultLocale: "US"

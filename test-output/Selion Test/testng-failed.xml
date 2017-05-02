@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Selion Test]" parallel="classes" data-provider-thread-count="1">
+  <parameter name="runLocally" value="true"/>
+  <test name="SampleTest">
+    <classes>
+      <class name="com.paypal.GooglePageTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Failed suite [Selion Test] -->

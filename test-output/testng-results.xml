@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selion Test" duration-ms="30559" started-at="2017-04-29T10:56:07Z" finished-at="2017-04-29T10:56:37Z">
+    <groups>
+    </groups>
+    <test name="SampleTest" duration-ms="30559" started-at="2017-04-29T10:56:07Z" finished-at="2017-04-29T10:56:37Z">
+      <class name="com.paypal.GooglePageTest">
+        <test-method status="PASS" signature="testGoogleParamerter(com.paypal.data.GoogleData)[pri:0, instance:com.paypal.GooglePageTest@551bdc27]" name="testGoogleParamerter" duration-ms="18031" started-at="2017-04-29T06:56:08Z" data-provider="googlTestData" finished-at="2017-04-29T06:56:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.paypal.data.GoogleData@5afe701f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleParamerter -->
+        <test-method status="PASS" signature="testGoogleParamerter(com.paypal.data.GoogleData)[pri:0, instance:com.paypal.GooglePageTest@551bdc27]" name="testGoogleParamerter" duration-ms="10295" started-at="2017-04-29T06:56:27Z" data-provider="googlTestData" finished-at="2017-04-29T06:56:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.paypal.data.GoogleData@66504a6f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleParamerter -->
+      </class> <!-- com.paypal.GooglePageTest -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- Selion Test -->
+</testng-results>

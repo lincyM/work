@@ -1,0 +1,20 @@
+baseClass: "com.paypal.selion.testcomponents.BasicPageImpl"
+pageTitle:
+  US: "PayPal Page"
+elements:
+  loginButton:
+    locators: 
+      US: "//a[@id='ul-btn']"
+  signButton:
+    locators:
+      US: "//button[@id='btnLogin']"
+  userIDTextField:
+    locators:
+       US: "//input[@id='email']"
+  passwordTextField:
+    locators: 
+      US: "//input[@id='password']"
+  errorLabel:
+    locators:
+      US: "//*[@id='notifications']/p"
+defaultLocale: "US"

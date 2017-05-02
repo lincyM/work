@@ -1,0 +1,11 @@
+baseClass: "com.paypal.selion.testcomponents.BasicPageImpl"
+pageTitle:
+  US: "SELION Page"
+elements:
+  viewLink:
+    locators: 
+      US: "//a[@href='https://www.youtube.com/channel/UCJjiL_9ierIZduoHXEZYFnA']"
+  userIDLink:
+    locators: 
+      US: "//a[contains(@href, 'html/documentation.html#what-is-selion')]"
+defaultLocale: "US"

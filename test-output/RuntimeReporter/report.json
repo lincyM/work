@@ -1,0 +1,89 @@
+{
+  "reportSummary": {
+    "testMethodsSummary": {
+      "passed": 4,
+      "failed": 0,
+      "skipped": 0
+    },
+    "configurationMethodsSummary": {
+      "passed": 0,
+      "failed": 0,
+      "skipped": 0
+    }
+  },
+  "testMethods": [
+    {
+      "parameters": [
+        "com.paypal.data.GoogleData@5afe701f"
+      ],
+      "suite": "Selion Test",
+      "test": "SampleTest",
+      "packageInfo": "com.paypal",
+      "className": "GooglePageTest",
+      "methodName": "testGoogleParamerter",
+      "status": "Passed",
+      "startTime": "2017-04-29T06:56:08.223-04:00",
+      "endTime": "2017-04-29T06:56:26.254-04:00"
+    },
+    {
+      "parameters": [
+        "com.paypal.data.GoogleData@5afe701f"
+      ],
+      "suite": "Selion Test",
+      "test": "SampleTest",
+      "packageInfo": "com.paypal",
+      "className": "GooglePageTest",
+      "methodName": "testGoogleParamerter",
+      "status": "Passed",
+      "startTime": "2017-04-29T06:56:08.223-04:00",
+      "endTime": "2017-04-29T06:56:26.254-04:00"
+    },
+    {
+      "parameters": [
+        "com.paypal.data.GoogleData@66504a6f"
+      ],
+      "suite": "Selion Test",
+      "test": "SampleTest",
+      "packageInfo": "com.paypal",
+      "className": "GooglePageTest",
+      "methodName": "testGoogleParamerter",
+      "status": "Passed",
+      "startTime": "2017-04-29T06:56:27.019-04:00",
+      "endTime": "2017-04-29T06:56:37.314-04:00"
+    },
+    {
+      "parameters": [
+        "com.paypal.data.GoogleData@66504a6f"
+      ],
+      "suite": "Selion Test",
+      "test": "SampleTest",
+      "packageInfo": "com.paypal",
+      "className": "GooglePageTest",
+      "methodName": "testGoogleParamerter",
+      "status": "Passed",
+      "startTime": "2017-04-29T06:56:27.019-04:00",
+      "endTime": "2017-04-29T06:56:37.314-04:00"
+    }
+  ],
+  "configurationMethods": [],
+  "configSummary": {
+    "currentDate": "2017-04-29T06:56:07.104-04:00"
+  },
+  "localConfigSummary": [
+    {
+      "currentDate": "2017-04-29T06:56:07.272-04:00",
+      "suite": "Selion Test",
+      "test": "SampleTest"
+    },
+    {
+      "currentDate": "2017-04-29T06:56:07.272-04:00",
+      "suite": "Selion Test",
+      "test": "SampleTest"
+    }
+  ],
+  "reporterMetadata": {
+    "currentDate": {
+      "displayLabel": "Current Date"
+    }
+  }
+}
